@@ -15,7 +15,8 @@ title: Subscriptions
 
 ## Specific sites {#specific-sites}
 
-- [ublacklist-pinterest](https://github.com/rjaus/ublacklist-pinterest) by [Riley James](https://github.com/rjaus)
+- [
+ublacklist-pinterest](https://github.com/rjaus/ublacklist-pinterest) by [Riley James](https://github.com/rjaus)
   - "ublacklist to block all pinterest websites from google, ddg, bing"
 
 ## Chinese {#chinese}
